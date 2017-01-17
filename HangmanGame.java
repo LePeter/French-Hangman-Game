@@ -3,7 +3,7 @@ package EnglishHangmanGamePack;
 /**
  *This file can not be reproduced unless specifically allowed by the owners.
  *Copyright 2014 Mrs.Brauzer's class
- *@author Charlie,Peter
+ *@author Peter Le
  *@param Letter guesses read in through the console using util.Scanner
  */
 
